@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\IntProject\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ba2fa71001fbe58231f73f3205297bcccea69fe">
+        <dex dex="E:\IntProject\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_fbd1f2a90b01f0616a2a6cd48b625f7d6669933f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Wed Apr 05 10:35:58 GMT+08:00 2017
+base.0=E\:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

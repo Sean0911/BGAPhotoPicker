@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="bga_pp_activity_bg">#1A1A1A</color>
+    <color name="bga_pp_btn_confirm_disabled">#8017C7D1</color>
+    <color name="bga_pp_btn_confirm_enabled">#17C7D1</color>
+    <color name="bga_pp_btn_confirm_pressed">#CC17C7D1</color>
+    <color name="bga_pp_colorPrimary">#303D42</color>
+    <color name="bga_pp_colorPrimaryDark">@android:color/black</color>
+    <color name="bga_pp_loading_progress_centerColor">#17C7D1</color>
+    <color name="bga_pp_loading_progress_endColor">#CC17C7D1</color>
+    <color name="bga_pp_loading_progress_startColor">@android:color/white</color>
+    <color name="bga_pp_navigationBarColor">@android:color/black</color>
+    <color name="bga_pp_photo_selected_mask">#4D000000</color>
+    <declare-styleable name="BGAImageView"><attr name="android:src"/><attr format="boolean" name="bga_iv_isCircle"/><attr format="reference|dimension" name="bga_iv_cornerRadius"/><attr format="boolean" name="bga_iv_isSquare"/><attr format="reference|dimension" name="bga_iv_borderWidth"/><attr format="reference|color" name="bga_iv_borderColor"/></declare-styleable>
+    <declare-styleable name="BGASortableNinePhotoLayout"><attr format="boolean" name="bga_snpl_isPlusSwitchOpened"/><attr format="boolean" name="bga_snpl_isSortable"/><attr format="reference" name="bga_snpl_deleteDrawable"/><attr format="integer" name="bga_snpl_maxItemCount"/><attr format="integer" name="bga_snpl_itemSpanCount"/><attr format="boolean" name="bga_snpl_isDeleteDrawableOverlapQuarter"/><attr format="reference" name="bga_snpl_plusDrawable"/></declare-styleable>
+    <dimen name="bga_pp_size_delete_padding">2dp</dimen>
+    <dimen name="bga_pp_size_level1">4dp</dimen>
+    <dimen name="bga_pp_size_level2">8dp</dimen>
+    <dimen name="bga_pp_size_level3">12dp</dimen>
+    <dimen name="bga_pp_size_photo_divider">2dp</dimen>
+    <dimen name="bga_pp_textSize_level1">12sp</dimen>
+    <dimen name="bga_pp_textSize_level2">16sp</dimen>
+    <string name="bga_pp_all_image">所有图片</string>
+    <string name="bga_pp_choose">选择</string>
+    <string name="bga_pp_confirm">确定</string>
+    <string name="bga_pp_download_img_failure">下载到图片失败</string>
+    <string name="bga_pp_photo_not_support">当前设备不支持发送图片</string>
+    <string name="bga_pp_save_img_failure">保存图片失败，再试试?</string>
+    <string name="bga_pp_save_img_success_folder">图片已保存至 %s 文件夹</string>
+    <string name="bga_pp_take_picture">拍摄照片</string>
+    <string name="bga_pp_toast_photo_picker_max">最多只能选择 %1$s 张图片</string>
+    <string name="bga_pp_view_photo">查看图片</string>
+    <style name="BGADialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="BGAPPTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/bga_pp_colorPrimaryDark</item>
+        <!-- toolbar（actionbar）背景颜色 -->
+        <item name="colorPrimary">@color/bga_pp_colorPrimary</item>
+        <!-- 底部导航栏的颜色 -->
+        <item name="android:navigationBarColor" ns1:targetApi="lollipop">@color/bga_pp_navigationBarColor</item>
+    </style>
+</resources>

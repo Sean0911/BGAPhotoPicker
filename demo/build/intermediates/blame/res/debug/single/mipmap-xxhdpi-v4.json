@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_gallery_camera.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_gallery_camera.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png"
+    },
+    {
+        "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png",
+        "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png"
+    }
+]
