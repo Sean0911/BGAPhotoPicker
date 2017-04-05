@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -10,5 +14,17 @@
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

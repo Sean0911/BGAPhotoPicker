@@ -4,6 +4,18 @@
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\menu\\bga_pp_menu_photo_preview.xml"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_preview.xml",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\menu\\bga_pp_menu_photo_preview.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_picker.xml",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\menu\\bga_pp_menu_photo_picker.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_picker_preview.xml",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\menu\\bga_pp_menu_photo_picker_preview.xml"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\menu\\bga_pp_menu_photo_picker.xml",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\menu\\bga_pp_menu_photo_picker.xml"
     },

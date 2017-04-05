@@ -1,7 +1,19 @@
 [
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic_icon_delete.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxhdpi\\pic_icon_delete.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic_icon_delete.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxhdpi\\pic_icon_delete.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\avatar.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxhdpi\\avatar.png"
     },
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\avatar.png",

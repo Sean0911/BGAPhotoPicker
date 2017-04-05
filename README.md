@@ -1,11 +1,5 @@
 :running:BGAPhotoPicker-Android:running:
 ============
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/cn.bingoogolapple/bga-photopicker/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cn.bingoogolapple/bga-photopicker)
-
-将 [MeiqiaSDK-Android](https://github.com/Meiqia/MeiqiaSDK-Android) 里的图库单独抽出来开源，将其中的 GridView、ListView和RelativeLayout 换成 RecyclerView 和 Toolbar，方便在以后的项目中直接依赖使用。Demo 中模仿了微信朋友圈的部分功能，详细用法请查看 Demo。希望能该库帮正在做这几个功能的猿友节省开发时间。
-
-## 如有需要集成「在线客服功能」的猿友，欢迎使用 [美洽](http://meiqia.com)
-
 ## 主要功能
 - [x] 单图选择
 - [x] 多图选择
@@ -19,11 +13,9 @@
 - [x] 发布朋友圈界面的可拖拽排序的九宫格图片控件
 - [x] 覆盖相应的资源文件来定制界面
 
-## 效果图与示例 apk
+## 效果图
 
 ![bga-photopicker3](https://cloud.githubusercontent.com/assets/8949716/17476407/7d54831e-5d92-11e6-83d0-4049039e0899.gif)![photopickercustom](https://cloud.githubusercontent.com/assets/8949716/18590019/cde4acdc-7c5f-11e6-8877-b702aba7ae0c.png)
-
-[点击下载 BGAPhotoPickerDemo.apk](http://fir.im/PhotoPickerDemo) 或扫描下面的二维码安装
 
 ![bga_photopicker_qrcode1](https://cloud.githubusercontent.com/assets/8949716/17477053/71e2be30-5d95-11e6-88ae-96f2b8a8a741.png)
 
@@ -184,17 +176,3 @@ public static Intent newIntent(Context context, File saveImgDir, String photoPat
 }
 -dontwarn org.xutils.**
 ```
-
-## 关于我
-
-| 新浪微博 | 个人主页 | 邮箱 | BGA系列开源库QQ群
-| ------------ | ------------- | ------------ | ------------ |
-| <a href="http://weibo.com/bingoogol" target="_blank">bingoogolapple</a> | <a  href="http://www.bingoogolapple.cn" target="_blank">bingoogolapple.cn</a>  | <a href="mailto:bingoogolapple@gmail.com" target="_blank">bingoogolapple@gmail.com</a> | ![BGA_CODE_CLUB](http://7xk9dj.com1.z0.glb.clouddn.com/BGA_CODE_CLUB.png?imageView2/2/w/200) |
-
-## 打赏支持
-
-如果觉得 BGA 系列开源库对您有用，请随意打赏。
-
-<p align="center">
-  <img src="http://7xk9dj.com1.z0.glb.clouddn.com/bga_pay.png" width="450">
-</p>

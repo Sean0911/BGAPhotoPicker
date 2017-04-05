@@ -3,6 +3,114 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_2ec3f11d912f5d5d86f79718740136048e8fd214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\dbde4bd7ee9ae925a54fd7d1e379f24e149e50a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_78c35c498ad6a3ea4a6c0fd6a3b67ee9aa32a201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\d967b4415009c693e1049bec974669c3d6167933\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_3f4d3b6fbf19a16d8d7c84be477329f5f9bf1d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_0d0f91c33312d2d5834dcaede57320db2e61f91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\3ec149a4848c1fca28f7ac6b57246db01fad25d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_f0cbc98c50c7e59d9211421a18e7b9434d37651e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\4c5160e1d46de55cb00fa72de963f98ec713218f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_d6f73a4e8690bd78b53afdabeae3f4c8a54187e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\1b642f1a548b80076c99eec5c49719e6abe1980c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_1506b16460b938c52f43c58cc1e92f7347d7cba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ba2fa71001fbe58231f73f3205297bcccea69fe">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_9d412fbb168f57f9a27bb417dcb3300b286f8c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\62adf6189a228e2b67c861d356ce5dfc2dc791c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_c1e875b189eed78bec2c33421649ed45870020fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\5448001544fae324ea6ac70ba8c2683a3ba4dbb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_63110bdf37578a5ece56ef1ed04a8880e6490c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\c299edca8c823fa638d6dda83ac662c7e26dcbc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_33237ce9819ae08a9533a852d5fadc481948451e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\ea96344a33e850872333d705ee2d05bdb14467a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_3a6d1cbed28833db76cf2cd624c23abafe7776aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\IntProject\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"

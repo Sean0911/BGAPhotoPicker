@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

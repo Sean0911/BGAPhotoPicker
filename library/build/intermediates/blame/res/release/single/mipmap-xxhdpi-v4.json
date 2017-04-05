@@ -8,6 +8,14 @@
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_holder_dark.png"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_download.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_cb_checked.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_cb_normal.png"
     },
@@ -20,16 +28,44 @@
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_holder_light.png"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_gallery_camera.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_gallery_camera.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_holder_dark.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_download.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_plus.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_holder_light.png"
     },
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_plus.png"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_delete.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_cb_normal.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png",
         "source": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_cb_checked.png"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png",
+        "source": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\src\\main\\res\\mipmap-xxhdpi\\bga_pp_ic_arrow_down.png"
     },
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png",

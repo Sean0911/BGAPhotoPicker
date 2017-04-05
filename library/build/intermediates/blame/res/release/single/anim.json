@@ -8,6 +8,14 @@
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
@@ -16,8 +24,24 @@
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
@@ -28,8 +52,20 @@
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -38,5 +74,9 @@
     {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\429ca500f7ffbe0f9f50e9ae71f33bc55598b4ec\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

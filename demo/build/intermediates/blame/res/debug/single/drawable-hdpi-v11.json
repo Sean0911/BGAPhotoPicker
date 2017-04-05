@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\leak_canary_notification.png",
+        "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\b768c355ad4ef16f05be276bd2c3b7711debfea2\\output\\res\\drawable-hdpi-v11\\leak_canary_notification.png"
+    },
+    {
         "merged": "E:\\IntProject\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\leak_canary_notification.png",
         "source": "C:\\Users\\Administrator.MS-20161108HANY.000\\.android\\build-cache\\b768c355ad4ef16f05be276bd2c3b7711debfea2\\output\\res\\drawable-hdpi-v11\\leak_canary_notification.png"
     }
