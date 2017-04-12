@@ -12,12 +12,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\840daaebc40f770cf88e1ab98ecbddd0826603bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_99f862ff11b2c3b75d4f2e91132495728624eac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\b768c355ad4ef16f05be276bd2c3b7711debfea2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5e583b1683726f97ea955f0ca8dca78ac761ec5">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_a19ce6e8d015200f060cdb2d55861fc03cf520dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\dbde4bd7ee9ae925a54fd7d1e379f24e149e50a9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
         <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_78c35c498ad6a3ea4a6c0fd6a3b67ee9aa32a201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\9d33627a3967bf06a404c262a9c1cad5e17d79e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2fc47d835e217890cbe631b0bb447786d8544aa">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_0dc72f44197633e9a47cd9c750dc604ed024c3e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ba2fa71001fbe58231f73f3205297bcccea69fe">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_9d412fbb168f57f9a27bb417dcb3300b286f8c7a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="653622f8b8bfbed8fe8976f4186b5776890f89cd">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_96611f27d2e10fd24aac4351bcbaf565c55d896d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\3ec149a4848c1fca28f7ac6b57246db01fad25d3\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +93,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_e2b207e9e44388fd9f90ac607de1a439f8202b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\4c5160e1d46de55cb00fa72de963f98ec713218f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
         <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_d6f73a4e8690bd78b53afdabeae3f4c8a54187e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4\5afc3a836f7523c7dec8ea0da5632a19b354b0a0\leakcanary-watcher-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5afc3a836f7523c7dec8ea0da5632a19b354b0a0">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4_253bb2a490f993da0d383a48b0f877b257c422ae.jar" />
     </item>
     <item
         is-multidex="false"
@@ -90,6 +153,24 @@
         revision="25.0.0"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\classes_63110bdf37578a5ece56ef1ed04a8880e6490c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\picasso-2.5.2_e7e1e24354d2ed06ec857c2fbcb44268cf668b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.MS-20161108HANY.000\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4\5faf46d7b5f99d8bdc887ba83c7a966b426740e1\leakcanary-analyzer-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5faf46d7b5f99d8bdc887ba83c7a966b426740e1">
+        <dex dex="F:\SeanStudy\BGAPhotoPicker-Android-master\demo\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.4_c7557fca671388cdc24004933972f27ebcc44d4c.jar" />
     </item>
     <item
         is-multidex="false"

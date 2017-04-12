@@ -58,6 +58,6 @@ public final class R {
     }
     public static final class style {
         public static final int leak_canary_LeakCanary_Base = 0x7f090031;
-        public static final int leak_canary_Theme_Transparent = 0x7f09017f;
+        public static final int leak_canary_Theme_Transparent = 0x7f090181;
     }
 }

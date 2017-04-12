@@ -26,8 +26,8 @@ ADDED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManif
 		ADDED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManifest.xml:7:22-62
 application
 ADDED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManifest.xml:9:5-41:19
-MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\f53279cd725206a7794e7fa4d6e20e200cd53248\output\AndroidManifest.xml:12:5-20
 MERGED from [BGAPhotoPicker-Android-master:library:unspecified] F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-36:19
+MERGED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:11:5-17:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\62adf6189a228e2b67c861d356ce5dfc2dc791c2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\4c5160e1d46de55cb00fa72de963f98ec713218f\output\AndroidManifest.xml:29:5-20
@@ -95,8 +95,8 @@ ADDED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManif
 		ADDED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManifest.xml:37:17-67
 uses-sdk
 INJECTED from F:\SeanStudy\BGAPhotoPicker-Android-master\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\f53279cd725206a7794e7fa4d6e20e200cd53248\output\AndroidManifest.xml:8:5-10:41
 MERGED from [BGAPhotoPicker-Android-master:library:unspecified] F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\AndroidManifest.xml:6:5-9:46
+MERGED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\62adf6189a228e2b67c861d356ce5dfc2dc791c2\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\4c5160e1d46de55cb00fa72de963f98ec713218f\output\AndroidManifest.xml:21:5-23:60
@@ -154,6 +154,16 @@ ADDED from [BGAPhotoPicker-Android-master:library:unspecified] F:\SeanStudy\BGAP
 		ADDED from [BGAPhotoPicker-Android-master:library:unspecified] F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\AndroidManifest.xml:34:13-46
 	android:name
 		ADDED from [BGAPhotoPicker-Android-master:library:unspecified] F:\SeanStudy\BGAPhotoPicker-Android-master\library\build\intermediates\bundles\default\AndroidManifest.xml:31:13-96
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\64225b15e366c95cb4576816e527596d1602ae8d\output\AndroidManifest.xml:13:13-86
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\d4038dfb11a9bd2dc1ba4d58391d3046bae7037e\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator.MS-20161108HANY.000\.android\build-cache\62adf6189a228e2b67c861d356ce5dfc2dc791c2\output\AndroidManifest.xml:25:5-27:34

@@ -1,4 +1,4 @@
-#Wed Apr 05 15:36:28 GMT+08:00 2017
+#Wed Apr 12 09:48:21 GMT+08:00 2017
 base.0=F\:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=F\:\\SeanStudy\\BGAPhotoPicker-Android-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

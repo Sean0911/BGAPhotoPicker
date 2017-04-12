@@ -408,8 +408,10 @@
     <string name="leak_canary_share_with">Share with…</string>
     <string name="leak_canary_storage_permission_activity_label">Storage permission</string>
     <string name="leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_settings_dialog">Permissions Required</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1485,6 +1487,15 @@
         <item name="android:background">?attr/controlBackground</item>
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
+    </style>
+    <style name="EasyPermissions" parent="Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="EasyPermissions.Transparent" parent="EasyPermissions">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
     </style>
     <style name="MatchAuto">
         <item name="android:layout_width">match_parent</item>
